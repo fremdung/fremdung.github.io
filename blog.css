@@ -1,0 +1,12 @@
+.cards {
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-evenly;
+  padding-top: 2rem;
+}
+
+.paging {
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+}
